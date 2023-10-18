@@ -1,6 +1,20 @@
 # Medical Image Classification with Chest X-Ray Images using CNN 
 In this project, I developed a Convolutional Neural Network (CNN) model for classifying chest x-ray images. The aim of the project was to build a model that could accurately detect the presence of lung diseases, such as pneumonia, in chest x-ray images.
 
+## Tools and Libraries
+
+This project uses the following tools and libraries:
+
+- **Python**
+- **NumPy**
+- **OpenCV**
+- **TensorFlow/Keras**
+- **scikit-learn**
+- **Flask**
+- **Matplotlib**
+- **imbalanced-learn**
+
+Make sure to install and set up these tools and libraries before running the project.
 ### Steps
 
 1. **Read the Images:** First, you need to read the images you'll be working with. You can use various libraries like OpenCV, PIL, or scikit-image to read the images into your Python code.
