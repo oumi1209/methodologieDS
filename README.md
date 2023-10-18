@@ -21,7 +21,7 @@ Make sure to install and set up these tools and libraries before running the pro
 
 2. **Pre-process and Rescale the Images:** Pre-process the images to prepare them for training and testing. This may involve resizing, normalization, data augmentation, etc.
 
-3. **Activation Functions:** Experiment with different activation functions, such as Tanh and ReLU, in your neural network models.
+3. **Exploratory Data Analysis (EDA)**
 
 4. **Convolutional Neural Networks (CNNs):** Implement your Convolutional Neural Network architecture using Keras and TensorFlow. Define the layers, architecture, and configurations of your CNN.
 
